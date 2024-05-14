@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(223, 95, 116);
+}
+.img-profile {
+    border-radius: 50%;
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+}
+.btn{
+    /* background-color: pink; */
+    color: purple;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 5%;
+    border: 1px solid #9b1a65
+}
+.btn-purple{
+    background-color:rgb(184, 82, 145);
+}
+.btn-pink{
+    background-color:rgb(184, 82, 116);
+}
+.btn-yellow{
+    background-color:rgb(221, 134, 93);
+}
